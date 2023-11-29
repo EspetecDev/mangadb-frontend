@@ -2,7 +2,7 @@
 a
 TODO:
  * [ ] home page
- * [ ] admin management
+ * [ ] profile page // low priority
  * [ ] author component
  * [ ] series component
  * [ ] volume component
